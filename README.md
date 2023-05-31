@@ -1,4 +1,4 @@
-# ML-Hardware-Systems
+# ECE-5545 ML-Hardware-Systems
 This repo contains the Assignments from Cornell Tech's ECE 5545 - Machine Learning Hardware and Systems offered in Spring 2023
 
 ## Assignment-1 - Roofline Plots and Hardware Benchmarking - 
